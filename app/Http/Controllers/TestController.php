@@ -8,6 +8,7 @@ class TestController extends Controller
 {
     public function __invoke()
     {
-        $user->name;
+        $user = \Auth::user();
+        $name = $user->name;
     }
 }
