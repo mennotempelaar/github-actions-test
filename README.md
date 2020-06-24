@@ -1,4 +1,4 @@
-![Build](https://github.com/mennotempelaar/github-actions-test/workflows/Build/badge.svg)
+![Build](https://github.com/mennotempelaar/github-actions-test/workflows/Build/badge.svg?branch=master)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
